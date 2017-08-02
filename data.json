@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/aymanyaq/test/blob/master/dict.csv",
+	"file": "https://raw.githubusercontent.com/aymanyaq/test/master/data.csv",
 	"name": "Test",
 	"header": 0,
 	"separator": ",",
@@ -8,6 +8,6 @@
 		{ "type": "id", "index": 0, "name": "Name" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 50 }
+		{ "format": "binary", "start": 1, "end": 297 }
 	]
 }
