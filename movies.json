@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/aymanyaq/test/blob/master/movies.csv",
+	"file": "https://raw.githubusercontent.com/aymanyaq/test/master/movies.csv",
 	"name": "Online Movies Genres - GitHub",
 	"header": 0,
 	"separator": ";",
